@@ -1,0 +1,32 @@
+{
+  "name": "31210-Pink",
+  "version": "0.0.1",
+  "description": "Education project «Pink» for HTML Academy",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "grunt lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/up-htmlacademy/31210-Pink.git"
+  },
+  "author": "Ольга Глазунова",
+  "bugs": {
+    "url": "https://github.com/up-htmlacademy/31210-Pink/issues"
+  },
+  "homepage": "https://github.com/up-htmlacademy/31210-Pink",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-autoprefixer": "^2.2.0",
+    "grunt-combine-media-queries": "^1.0.19",
+    "grunt-contrib-imagemin": "^0.9.4",
+    "grunt-contrib-less": "^1.0.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-svg-sprite": "^1.1.0",
+    "load-grunt-tasks": "^3.1.0"
+  },
+  "dependencies": {
+    "normalize.css": "^3.0.2",
+    "normalize.less": "^1.0.0"
+  }
+}
